@@ -46,6 +46,9 @@ Im Carmelo Cabezon, Full stack PERN developer and Industrial designer.
 </div>  
 
 <br/>  
+  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PinchiDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <!--
 **PinchiDev/PinchiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
