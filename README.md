@@ -3,8 +3,11 @@
 Im Carmelo Cabezon, Full stack PERN developer and Industrial designer.
 
 ❤️‍🔥 In love with backend development
+<br>
 🛠️ Specialized in PERN stack (for now)
+<br>
 🌱 I’m currently learning NestJs & mongoDB
+<br>
 📫 How to reach me: carmelo2055@gmail.com 
 
 
